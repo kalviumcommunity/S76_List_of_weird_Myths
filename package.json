@@ -1,0 +1,15 @@
+{
+  "name": "list_of_weird_myths",
+  "version": "1.0.0",
+  "description": "myths that we hear from our elder's",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jandy Roach",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
