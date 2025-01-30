@@ -25,3 +25,5 @@ Why This Project:
 - It makes user to remember the funny days.
 
 - user can find more funny and wired myths
+
+## https://s76-list-of-weird-myths.onrender.com/ping 
