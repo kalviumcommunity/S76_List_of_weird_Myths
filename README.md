@@ -26,4 +26,8 @@ Why This Project:
 
 - user can find more funny and wired myths
 
+<<<<<<< HEAD
 ## https://s76-list-of-weird-myths.onrender.com/ping
+=======
+## https://s76-list-of-weird-myths.onrender.com/ping 
+>>>>>>> ab1c37a022b0ddc677795eb555dc9cf7900f6c87
